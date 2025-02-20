@@ -1,0 +1,2 @@
+# Flipkart --Clone project
+ A Flipkart clone, specifically focusing on the frontend development, involves creating a user-facing interface that closely resembles the original Flipkart website in terms of design, usability, and functionality. The frontend is the first thing users interact with, and it needs to provide a seamless and visually appealing experience across multiple devices (desktop, tablet, mobile). Below is a detailed description of the frontend components involved in creating a Flipkart clone
